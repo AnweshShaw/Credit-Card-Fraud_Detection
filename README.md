@@ -9,3 +9,5 @@ Algorithms Used:
 Accuracy :
 1) RF Model : 99.94 %
 2) DT Model : 99.92 %
+
+The dataset used for this project is taken from Kaggle. 
