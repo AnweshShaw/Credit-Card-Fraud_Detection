@@ -7,4 +7,5 @@ Algorithms Used:
 2) Decision Tree 
 
 Accuracy :
-
+1) RF Model : 99.94 %
+2) DT Model : 99.92 %
