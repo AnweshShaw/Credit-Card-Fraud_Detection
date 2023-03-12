@@ -17,4 +17,5 @@ iii) Working:
 2) After collecting the input, it sends the data to the saved joblib model.
 3) Next, the model analyses whether trnsaction is fraudulent or genuine using ML algorithms and returns the result.
 
+
 The dataset used for this project is taken from Kaggle. (Dataset contains data of nearly 284,000 transactions which happened in 2013)
