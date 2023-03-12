@@ -1,4 +1,5 @@
 from tkinter import *
+import joblib
 import pandas as pd
 
 window = Tk()
