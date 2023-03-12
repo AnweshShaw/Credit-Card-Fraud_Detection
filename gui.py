@@ -1,9 +1,12 @@
+# It creates a GUI for taking input from user or it can be automated.
+# After collecting the input, it sends the data to the saved joblib model.
+# The model analyses whether trnsaction is fraudulent or genuine using ML algorithms and returns the result.
 from tkinter import *
 import joblib
 import pandas as pd
 
 window = Tk()
-window.title("Credit Card Fraud Detction")
+window.title("Credit Card Fraud Detection")
 canvas = Canvas(height=400, width=300, bg="grey")
 canvas.pack()
 
