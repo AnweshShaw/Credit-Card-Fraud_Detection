@@ -2,6 +2,9 @@
 This repository contains our project submission for Hack Overflow 6.0. 
 Our project detects fraudulent activity while using Credit Cards using ML Algorithms.
 
+** <b>Highlights</b>:
+Our Project titled "Secure Swipe" was selected among the Top 15 teams in HackOverFlow 6.0, which had more than 500+ participants across all India. 
+
 i) Algorithms Used:
 1) Random Forest Classifier (RF Classifier)
 2) Decision Tree 
