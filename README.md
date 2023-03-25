@@ -1,7 +1,7 @@
 # Credit-Card-Fraud_Detection
 
 ** <b>Highlights</b> **: <br>
-<b>Our Project titled "Secure Swipe" was selected among the Top 15 teams in HackOverFlow 6.0, which had more than 500+ participants across all India. It also won the Wolfram Award.</b> <br><br>
+<b>Our Project titled "Secure Swipe" was selected among the Top 15 teams in HackOverFlow 6.0 conducted by NIT Durgapur, which had more than 500+ participants across all India. It also won the Wolfram Award.</b> <br><br>
 ![Screenshot (98)](https://user-images.githubusercontent.com/83204279/227383379-bff45360-18e0-4310-83cf-5f0ff8fd6b0f.png)
 ![Screenshot (97)](https://user-images.githubusercontent.com/83204279/227382638-499162e8-bc27-47de-8049-e258caf27ee6.png)
 ![Anwesh Shaw (3)](https://user-images.githubusercontent.com/83204279/227709532-cc00203d-0156-49d6-9a3d-356986077e0b.png)
